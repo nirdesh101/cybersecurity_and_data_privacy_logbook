@@ -9,3 +9,6 @@
 | 09.11.2025 |    1.5     | Module:4 Protecting the organization(completed studying and quiz)|Learned about the topic|
 | 09.11.2025 |    0.75    | Module:5 Will your future be in cybersecurity(completed studying and quiz)|Learned about the issues|
 | 09.11.2025 |    0.5     | Completed Final Exam|CISCO completed|
+| 09.11.2025 |    1       | Completed SQL INJECTION 2 Labs|learned about small details and query stucture|
+| 09.11.2025 |    1       | Completed ACCESS CONTROL 2 Labs|Learned about authorization controls and information leak|
+| 09.11.2025 |    3       | Completed AUTHENTICATION 2 labs|learned about authentication and validation|
