@@ -16,3 +16,6 @@
 | 25.11.2025 |    4       | Completed Phase-1 part-2|leaned about attcking from zap and docker|
 | 13.12.2025 |    1       | EDITED AND RESUBMITTED Phase-1 part-1|improved phase1 part-1 version|
 | 18.12.2025 |    1       | EDITED AND RESUBMITTED Phase-1 part-2|improved phase1 part-2 version|
+| 18.12.2025 |    0.25    | completed SQL injection attack, querying the database type and version on Oracle LAB|learned about the topic|
+| 18.12.2025 |    0.25    | completed Reflected XSS into HTML context with nothing encoded (Cross site scripting) LAB|learned about the topic|
+| 18.12.2025 |    0.25    | completed Stored XSS into HTML context with nothing encoded LAB|learned about the topic|
