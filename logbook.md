@@ -13,5 +13,6 @@
 | 09.11.2025 |    1       | Completed ACCESS CONTROL 2 Labs|Learned about authorization controls and information leak|
 | 09.11.2025 |    3       | Completed AUTHENTICATION 2 labs|learned about authentication and validation|
 | 25.11.2025 |    4       | Completed Phase-1 part-1|leaned about attcking from zap and docker|
-| 25.11.2025 |    4       | Completed Phase-1 part-1|leaned about attcking from zap and docker|
+| 25.11.2025 |    4       | Completed Phase-1 part-2|leaned about attcking from zap and docker|
 | 13.12.2025 |    1       | EDITED AND RESUBMITTED Phase-1 part-1|improved phase1 part-1 version|
+| 18.12.2025 |    1       | EDITED AND RESUBMITTED Phase-1 part-2|improved phase1 part-2 version|
